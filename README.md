@@ -156,6 +156,22 @@ Program-1:
    }
 }
 
+Notes:
+======
+How  to compile  OAKJAVA?
+
+WEBJ  <filename.java>
+
+How  to run   OAKJAVA?
+
+WEBJ filename Run
+
+How  to  compile  and  create  .exe   or .dll  file?
+
+WEBJ  <filename.web>
+
+
+
 
 
 [Project  Period : 2005  to  2016]
