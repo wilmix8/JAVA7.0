@@ -31,7 +31,7 @@ which  is   not understood  by hackers.
 
 JAVA7.0  loads    .dll in   memory  to create  a  Prototype  software. 
 
-
+c) WEBJ  <filename.java> => will  also   create  .exe  prototype software.
     
 SYNTAX-1:
 =======
