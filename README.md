@@ -90,9 +90,7 @@ System.out.println("wilmix is going");
 
 }
 
-Note:  java  compiles  if  class  name  and  filename  is  same
-
-but  oak java (JAVA7.0) compiles  if  class  name  and  filename  is not same is  the  major  difference.
+Note:  OAKJAVA(JAVA7.0)  creates   .exe   and  class  files.
 
 
 Program-1:
