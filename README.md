@@ -40,6 +40,11 @@ c) WEBJ  <filename.java> => will  also   create  .exe  prototype software
 
 which  jdk1.8  or any  java compiler  cannot  do.
 
+
+JAVA7.0 is  mostly  constructed  using  JDollar  than  JAVA.
+
+so JAVA  is  the  secondary parent for JAVA7.0.
+
     
 SYNTAX-1:
 =======
