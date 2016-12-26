@@ -1,7 +1,7 @@
 # JAVA7.0
 ==========
 
-JAVA7.0 is   invented by  wilmix jemin  j  at  year  2013 in  java  and  C#.
+JAVA7.0 is   invented by  wilmix jemin  j  at  year  2013 in  java  and  JDollar  P.L .
 
 
 
@@ -16,6 +16,8 @@ a) JAVA  class  file   has  many demerits  so  any thing  you create  a compiler
 the source  code  can  be  easily  taken  by JAD.
 
 b)  C#  (.exe  or  .dll)  source code can  also  be  taken  using  code  reflector.
+
+so   C#  also   fails  in  Code   security.
 
 That's  why   JAVA7.0  is  focused.
 
