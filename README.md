@@ -312,6 +312,8 @@ java  fails  completly in  code  security.  so JAVA7.0  is  widely  used
 
 in  the  world instead of java.
 
+but  java(jdk1.8,jdk1.7)  is  used  with  JREE in linux platform.
+
 b) JAVA7.0  supports  Garbage  collection  and  explicity memory.
 
 c)  JAVA7.0 support  Multiple  inheritance ,friend  function, and  operator overloading
