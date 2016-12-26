@@ -1,7 +1,8 @@
 # JAVA7.0
 ==========
 
-JAVA7.0 is   invented by  wilmix jemin  j  at  year  2013 in  java  and  JDollar  P.L .
+
+JAVA7.0 is   invented by  wilmix jemin  j  at  year  2013 in  java  and modified  in  JDollar(J$) P.L in year  2016.
 
 
 
