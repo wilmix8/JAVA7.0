@@ -309,7 +309,7 @@ ADVANTAGES of JAVA7.0
 =====================
 
 
-a)  JAVA7.0  behaves  like  his  parent  java
+a)  JAVA7.0  behaves  like  his  parent  java and  JDollar
 
 java  fails  completly in  code  security.  so JAVA7.0  is  widely  used 
 
