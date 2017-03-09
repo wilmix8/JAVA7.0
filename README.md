@@ -345,9 +345,7 @@ h) Since  it  pocessed  100% oops  concepts  it is  ranked  as   NO:5
 Top  quality  software  according  to  wilmixsolomonresearch lab.
 
 
-i) JAVA7.0 is  used   with  Spring,struts,hibernate,etc
-
-and  JDollar,CWEB  section, C#, and  with  all  writ  Programming langauges.
+i) JAVA7.0 is  used   with   JDollar,CWEB  section, C#, and  with  all  writ  Programming langauges.
 
 
 
