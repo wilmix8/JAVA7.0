@@ -348,6 +348,7 @@ Top  quality  software  according  to  wilmixsolomonresearch lab.
 i) JAVA7.0 is  used   with   JDollar,CWEB  section, C#, and  with  all  writ  Programming langauges.
 
 
+note: here only Jdk1.8 or Jdk1.7 or Jdk1.9 tools  is not  used.but  here only  JAVA7(OAKJAVA) Programming langauge is  focused.
 
 
 [Project  Period : 2005  to  2016]
