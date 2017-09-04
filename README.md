@@ -7,6 +7,11 @@ JAVA7.0 is   invented by  wilmix jemin  j  at  year  2013 in  java  and modified
 
 
 
+Note: The  Meaning  of  OAKJAVA7 or  JAVA7.0   is  OAK +  Jemin  Advanced Virtual Machine
+
+
+OAK  gives   the  meaning  Beginning. 
+
 
 
 DEMERITS  of JAVA and  C#
