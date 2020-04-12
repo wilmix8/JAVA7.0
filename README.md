@@ -357,6 +357,17 @@ i) JAVA7.0 is  used   with   JDollar,CWEB  section, C#, and  with  all  writ  Pr
 Note: here only Jdk1.8 or Jdk1.7 or Jdk1.9 tools  is not  used.but  here only  JAVA7(OAKJAVA) Programming language is  focused.
 
 
+ABOUT  JAVA7.0  modules
+=======================
+
+a)IMF  Framework   is   another module  of  JAVA7.0.
+b) OAKJAVA8(JAVA8.0) Programming Language
+
+OAKJAVA7(JAVA7.0)  Tutorial website  is: https://sites.google.com/site/oakjava7programminglanguage/
+---------------------------------------
+
+OAKJAVA8(JAVA8.0) Tutorial website is: https://sites.google.com/site/oakjava8programminglanguage/
+--------------------------------------
 
 
 [Project  Period : 2005  to  2016]
