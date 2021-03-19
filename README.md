@@ -4,14 +4,57 @@
 
 JAVA7.0 is   invented by  wilmix jemin  j  at  year  2013 in  java  and modified  in  DOTWEB3.0 P.L in year  2016.
 
-
-
-
 Note: The  Meaning  of  OAKJAVA7 or  JAVA7.0   is  OAK +  Jemin  Advanced Virtual Machine
-
-
 OAK  gives   the  meaning  Beginning. 
 
+The Major common syntax  for  oakjava7 is given below..
+
+Major Syntax-1 for Oakjava7
+===========================
+
+filename.java7
+==============
+
+<JAVA7>
+public  <CLASS>  classname
+
+{
+
+ static  void  main(String args[])
+<%
+
+<--- Logic  of  OakJava7 --->
+
+%>
+
+</JAVA7>
+
+Major Syntax-2 for Oakjava7
+========================
+
+filename.java7
+==============
+
+<JAVA>
+
+<PACK> packagename
+{
+  
+    <CLASS> classname
+   {
+
+
+      public void main()
+      {
+ 
+<--- Logic  of  OakJava7 --->
+  
+ 
+
+
+      }
+   }
+}
 
 
 DEMERITS  of JAVA and  C#
@@ -352,9 +395,12 @@ Top  quality  software  according  to  wilmixsolomonresearch lab.
 
 i) JAVA7.0 is  used   with   JDollar,CWEB  section, C#, and  with  all  writ  Programming langauges.
 
+j) One  extension ie) filename.java7 with  2 programs  syntax.
 
+k) OakJava7 itself most suitable  for machine learning
+since  it  follows optimized java7.0 code..
 
-Note: here only Jdk1.8 or Jdk1.7 or Jdk1.9 tools  is not  used.but  here only  JAVA7(OAKJAVA) Programming language is  focused.
+Note: Here only  JAVA7(OAKJAVA) Programming language is  focused.
 
 <BR> <BR>
 ABOUT  JAVA7.0  modules
