@@ -446,10 +446,10 @@
 <p>&nbsp;</p>
 <p>b) OAKJAVA8(JAVA8.0) Programming Language</p>
 <p>&nbsp;</p>
-<p>OAKJAVA7(JAVA7.0)&nbsp; Tutorial website&nbsp; is: https://sites.google.com/site/oakjava7programminglanguage/</p>
+<p>OAKJAVA7(JAVA7.0)&nbsp; Tutorial website&nbsp; is: <a href="https://sites.google.com/site/oakjava7programminglanguage">For OakJava7,Datascience,Machinelearning,OakJava7 samples click here </a> /</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>OAKJAVA8(JAVA8.0) Tutorial website is: https://sites.google.com/site/oakjava8programminglanguage/</p>
+<p>OAKJAVA8(JAVA8.0) Tutorial website is: <a href="https://sites.google.com/site/oakjava8programminglanguage/"> For Oakjava8 - Mobile type applications click here </a> </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>[Project&nbsp; Period : 2005&nbsp; to&nbsp; 2016]</p>
