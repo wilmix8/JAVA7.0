@@ -2,59 +2,326 @@
 ==========
 
 
-JAVA7.0 is   invented by  wilmix jemin  j  at  year  2013 in  java  and modified  in  DOTWEB3.0 P.L in year  2016.
+OAKJAVA7(JAVA7.0) is   invented by  wilmix jemin  j  at  year  2013 in  java  and modified  in  DOTWEB3.0 P.L in year  2016.
 
 Note: The  Meaning  of  OAKJAVA7 or  JAVA7.0   is  OAK +  Jemin  Advanced Virtual Machine
 OAK  gives   the  meaning  Beginning. 
 
 The Major common syntax  for  oakjava7 is given below..
 
-Major Syntax-1 for Oakjava7
-===========================
 
-filename.java7
-==============
+Major Syntax for  oakjava7 program SYNTAX-1:
+============================================
 
-<JAVA7>
-public  <CLASS>  classname
+filename.web
+
+===========
+
+<WEB>
+
+<USE> packages;
+
+<PACK> packagename
 
 {
 
- static  void  main(String args[])
+    <CLASS>  <classname>
+
+   {
+
+      public void main()
+
+      {
+
+        <! source  code !>
+
+      }
+
+   }
+
+}
+
+Intermediate oakjava7 Program SYNTAX-2:
+=======================================
+
+Filename.java 
+
+=========
+
+<Access modifiers>  class <classname>
+
+{
+
+protected static void  main(String args[]) //  it  means it cannot  be  run   in   jdk1.8 compiler
+
+{
+
+<!  OAKJAVA7 Logic  !>
+
+}
+
+}
+
+Major Syntax for  oakjava7 program :SYNTAX-3
+===========================================
+
+filename.java7
+============
+
+<JAVA>
+
+<USE> packages;
+
+<PACK> packagename
+
+{
+
+    <CLASS>  <classname>
+
+   {
+
+      public void main()
+
+      {
+
+        <! source  code !>
+
+      }
+
+   }
+
+}
+
+SYNTAX-4
+
+========
+
+Major Syntax for  oakjava7 program Filename.java7 
+==================================================
+
+<JAVA7>
+
+<Access modifiers>  <CLASS> <classname>
+
+{
+
+ static void  main(String args[]) or <MAIN>  //  it  means it cannot  be  run   in   jdk1.8 compiler
+
 <%
 
-<--- Logic  of  OakJava7 --->
+<!  OAKJAVA7 Logic  !>
 
 %>
 
 </JAVA7>
 
-Major Syntax-2 for Oakjava7
-========================
+==============================================================================
 
-filename.java7
-==============
+                     <B> Program Structure </B>
+==============================================================================
 
-<JAVA>
+
+JAVA7.0  SYNTAX-1  Program  Structure(.web)
+
+=============================================
+
+Beginning  Section  :  <WEB>
+
+Documentation  Section 
+
+Package  Statement;
+
+<USE> Statement;
 
 <PACK> packagename
-{
-  
-    <CLASS> classname
+
+LOGIC  SECTION
+
+    <CLASS>  <classname>
+
    {
 
-
       public void main()
-      {
- 
-<--- Logic  of  OakJava7 --->
-  
- 
 
+      {
+
+        <! source  code !>
 
       }
-   }
-}
+
+CLOSE  LOGIC  SECTION
+
+ENDING  SECTION : }
+
+Explanation:
+
+JAVA7.0  Ending  section  is   }  ;  Ending  your  JAVA7.0  program
+
+Documentation  Section   means   you  can  include  description   
+
+with  comments.
+
+Package  statement  means   you   had  to  include  JAVA7.0 program  in  Package  ....
+
+<USE>  statement  to  import  all  the  packages.
+
+Interface   statement   for    supporting   multiple  inheritance.
+
+Logic   section    for   writing   JAVA7.0  logic  with   Class   followed  by main   method .
+
+after  writing logic   close    the  logic   section.  
+
+
+
+JAVA7.0  SYNTAX-2  Program  Structure(.java)(Intermediate OakJava7 program)
+===========================================================================
+
+Documentation  Section 
+
+Package  Statement;
+
+Import  Statement;
+
+LOGIC  SECTION
+
+    class  <classname>
+
+   {
+
+     protected static void  main(String args[]) 
+
+      {
+
+        <! source  code !>
+
+      }
+
+CLOSE  LOGIC  SECTION
+
+ENDING  SECTION : }
+
+Explanation:
+=============
+
+All  JAVA7.0   should   start   with   class  <classname>   
+
+But   protected static void  main(String args[]) is   used   instead   for  
+
+ public  static void  main(String args[]) for  protection  from hackers.
+
+This  Intermediate oakjava7 program is used only for  testing purpose. 
+
+
+
+
+
+
+JAVA7.0  SYNTAX-3 Program Structure
+
+=================================
+
+filename.java7
+
+=============
+
+Beginning  Section  :  <JAVA>
+
+Documentation  Section 
+
+Package  Statement;
+
+<USE> Statement;
+
+<PACK> packagename
+
+LOGIC  SECTION
+
+    <CLASS>  <classname>
+
+   {
+
+      public void main()
+
+      {
+
+        <! source  code !>
+
+      }
+
+CLOSE  LOGIC  SECTION
+
+ENDING  SECTION : }
+
+
+
+Explanation:
+===========
+
+JAVA7.0  Ending  section  is   }  ;  Ending  your  JAVA7.0  program
+
+Documentation  Section   means   you  can  include  description   
+
+with  comments.
+
+Package  statement  means   you   had  to  include  JAVA7.0 program  in  Package  ....
+
+<USE>  statement  to  import  all  the  packages.
+
+Interface   statement   for    supporting   multiple  inheritance.
+
+Logic   section    for   writing   JAVA7.0  logic  with   Class   followed  by main   method .
+
+after  writing logic   close    the  logic   section.  
+
+
+JAVA7.0  SYNTAX-4  Program  Structure(.java7)
+=============================================
+
+Beginning  Section  :  <JAVA7>
+
+Documentation  Section 
+
+Package  Statement;
+
+Import  Statement;
+
+LOGIC  SECTION
+
+<Access modifiers>  <CLASS> <classname>
+
+   {
+
+     protected static void  main(String args[]) or <MAIN>
+
+      {
+
+        <! source  code !>
+
+      }
+
+CLOSE  LOGIC  SECTION
+
+ENDING  SECTION : </JAVA7>
+
+Explanation
+===========
+
+All  JAVA7.0   should   start   with   <JAVA7> then after  that  followed  by <CLASS>  <classname>   
+
+But   protected static void  main(String args[]) or <MAIN> is   used   instead   for  
+
+ public  static void  main(String args[]) for  protection  from hackers.
+
+Logic   section    for   writing   JAVA7.0  logic  with   Class   followed  by main   method .
+
+after  writing logic   close    the  logic   section.  
+
+
+
+
+
+
+
 
 
 DEMERITS  of JAVA and  C#
@@ -70,337 +337,109 @@ so   C#  also   fails  in  Code   security.
 
 That's  why   JAVA7.0  is  focused.
 
-JAVA7.0 is a  OAK  jAVA  for creating  datastructures  
-
+OAKJava7(JAVA7.0) is a  OAK  java7  for creating  datastructures  
 and    compilers.
 
 
-JAVA7.0  accepts  ".java"   filename  and  translate  to  .class file.
+JAVA7.0  accepts  ".java7"   filename  and  translate  to  .class file.
 
-that  java  is  said  to  oak  java  different  from  orginal java.
+that  java  is  said  to  oakjava7  different  from  orginal java.
 
 which  is   not understood  by hackers.
 
 
 JAVA7.0  loads    .dll in   memory  to create  a  Prototype  software. 
 
-c) WEBJ  <filename.java> => will  also   create  .exe  prototype software
+c) javac7  <filename.java7> and  => will  also   create  .exe  prototype software
 
 which  jdk1.8  or any  java compiler  cannot  do.
 
 
-JAVA7.0 is  mostly  constructed  using  JDollar  than  JAVA.
 
-so JAVA  is  the  secondary parent for JAVA7.0.
+  FAQS?
+  =====
 
-    
-SYNTAX-1:
-=======
+How  to compile  OAKJAVA7(JAVA7.0) program?
+===========================================
 
-<WEB>
-<USE> packages;
-<PACK> packagename
-{
 
-    <CLASS> Boxtester
-   {
-      public void main()
-      {
-        <! source  code !>
-      }
-   }
-}
-
-
-SYNTAX-2
-========
-
-
-filename:javas.java (kindly  save  filename  as  javas.java)
-==============================================================
-
-example:
-=========
-
-class oakjava1
-
-{
-
-public static void  main(String args[])
-
-{
-
-System.out.println("wilmix is going");
-}
-
-}
-class oakjava2
-
-{
-
-public static void  main(String args[])
-
-{
-
-oakjava1 o  = new  oakjava1();
-System.out.println("wilmix is going");
-}
-
-}
-
-
-SYNTAX-3
-========
-
-
-
-<JAVA>
-
-
-
-
-
-<PACK> BoxApplication
-{
-   
-     
-   <CLASS> Boxtester
-   {
-      public void  main()
-      {
-         <! JAVA7.0   logic!>
-
-
-      }
-   }
-
-}
-
-
-</JAVA>
-
-
-
-
-
-JAVA7.0  program:
-=================
-
-
-<JAVA>
-
-
-
-
-
-<PACK> BoxApplication
-{
-   <CLASS> Box
-   {
-      private double length;   // Length of a box
-      private double breadth;  // Breadth of a box
-      private double height;   // Height of a box
-      public void setLength( double len )
-      {
-         length = len;
-      }
-      
-      public void setBreadth( double bre )
-      {
-         breadth = bre;
-      }
-      
-      public void setHeight( double hei )
-      {
-         height = hei;
-      }
-      public double getVolume()
-      {
-         return length * breadth * height;
-      }
-   }
-   <CLASS> Boxtester
-   {
-      public void  main()
-      {
-         Box Box1 <NEW> Box();   // Declare Box1 of type Box
-         Box Box2 <NEW> Box();
-         double volume;
-         
-         // Declare Box2 of type Box
-         // box 1 specification
-         Box1.setLength(6.0);
-         Box1.setBreadth(7.0);
-         Box1.setHeight(5.0);
-         
-         // box 2 specification
-         Box2.setLength(12.0);
-         Box2.setBreadth(13.0);
-         Box2.setHeight(10.0);
-         
-         // volume of box 1
-         volume = Box1.getVolume();
-         <PRINTLN>("Volume of Box1 : {0}" ,volume);
-         
-         // volume of box 2
-         volume = Box2.getVolume();
-         <PRINTLN>("Volume of Box2 : {0}", volume);
-         
-        <READLN>
-
-
-
-      }
-   }
-
-
-</JAVA>
-
-
-
-How  to  compile  ?
-
-webj MYOS1.java
-
-
-
-Output:
-========
-it  will  create   a  .exe   prototype  file.
-
-
-
-
-
-
-
-Note:  OAKJAVA(JAVA7.0) -syntax1 and  syntax3   creates   .exe   and  class  files.
-
-
-Program-1:
-==========
-<WEB>
-<USE> System;
-<PACK> BoxAN
-{
-   <CLASS> Box
-   {
-      private double length;   // Length of a box
-      private double breadth;  // Breadth of a box
-      private double height;   // Height of a box
-      public void setLength( double len )
-      {
-         length = len;
-      }
-      
-      public void setBreadth( double bre )
-      {
-         breadth = bre;
-
-      }
-      
-      public void setHeight( double hei )
-      {
-         height = hei;
-      }
-      public double getVolume()
-      {
-         return length * breadth * height;
-      }
-   }
-    <CLASS> Boxtest
-   {
-      public void main()
-      {
-         Box Box1 <NEW> Box();   // Declare Box1 of type Box
-         Box Box2 <NEW> Box();
-
-         double volume;
-         
-         // Declare Box2 of type Box
-         // box 1 specification
-         Box1.setLength(6.0);
-         Box1.setBreadth(7.0);
-         Box1.setHeight(5.0);
-         
-         // box 2 specification
-         Box2.setLength(12.0);
-         Box2.setBreadth(13.0);
-         Box2.setHeight(10.0);
-         
-         // volume of box 1
-         volume = Box1.getVolume();
-      <PRINTLN>("Volume of Box1 :" ,volume); //print  the  volume
-         
-         // volume of box 2
-         volume = Box2.getVolume();
-          <PRINTLN>("Volume of Box2 : {0}", volume);//print  the volume
-         
-  
-      }
-   }
-}
-
-Notes:
-======
-How  to compile  OAKJAVA?
-
-WEBJ  <filename.java>
+javac7  <filename.java>
 
 How  to run   OAKJAVA?
 
-WEBJ filename Run
+java7 <filename> 
 
 How  to  compile  and  create  .exe   or .dll  file?
 
-WEBJ  <filename.web>
+javac7  <filename.web>
+
+javac7 <filename.java7> to  generate  class files and  .exe files.
+
+
+ADVANTAGES of JAVA7.0(OAKJAVA7)
+===============================
+
+a) JAVA7.0 behaves like his parent java and  Dotweb3.0
+
+which java fails completly in code security. 
+
+b) JAVA7.0 supports Garbage collection and explicity memory.
+
+c) JAVA7.0 support Multiple inheritance ,friend function, and operator overloading
+
+and all C/C++ oops concepts.
+
+d) JAVA7.0 also supports CDollar concepts.
+
+e) JAVA7.0 is used to create games which cannot be achieved in cdollar and gdollar.
+
+f) JAVA7.0 also includes C# oops concepts.
+
+g) JAVA7.0 also follows attractive syntax.
+
+h) Since it had  100% oops concepts it is ranked as NO:1
+
+Top quality software according to wilmixsolomonresearch lab.
+
+i) JAVA7.0 is used with JDollar,CWEB section, C#, and with all writ Programming languages.
+
+j)  JAVA7.0  also  provide   Shortest  function Statements  ...
+
+k)  JAVA7.0  is  easy   to  learn  and  focus  . ie) it  is  Learnable  Programming Language...
+
+l)  JAVA7.0   also  had  his   own  shell  prompt  known  as  Java7Shell...
+
+you  can  execute and  run  Java7.0 Programs...
+
+m)  Java7.0  also   focus  on Code  Security.
+
+n)  Java7.0  is  an interactive  Programming Language..
+
+ie)  It  is  used   with  Java  ,  C#  And  other  writ  Programming Languages .. 
+
+Java  and C#  professionals can  easily  focus. 
+
+o)  JAVA7.0  is  focused on MachineLearning,Datascience and  Remotewebapplication ,etc.
+
+p)  JAVA7.0  is  used  with  WNOSQL  Database which  provides  high   security...
+
+q)  JAVA7.0  is used  with  WXML  which  is  very  easy   to  create   Forms ,Reports,etc.It avoids
+
+typing  html  everytime.  
+
+r) JAVA7.0  also   supports   100%  OOPS  concept. So  it  is called as  a  Pure OOPS  Programming Language.
+
+s)  We  can   convert   Java program  to  Oakjava7  Program  by   using  command  ConvertToJava7.
+
+t)  OakJava7   Intermediate Program    is  used   to  test  the  OakJava7  Program  , when  user
+
+done  mistake  in OakJava7 Programming. 
+
+u) OakJava7    is  designed   in such  a  way   that  Java  Programmers  can   easily   follow it.
 
 
 
-
-ADVANTAGES of JAVA7.0
-=====================
-
-
-a)  JAVA7.0  behaves  like  his  parent  java and  JDollar
-
-java  fails  completly in  code  security.  so JAVA7.0  is  widely  used 
-
-in  the  world instead of java.
-
-but  java(jdk1.8,jdk1.7)  is  used  with  JREE in linux platform.
-
-b) JAVA7.0  supports  Garbage  collection  and  explicity memory.
-
-c)  JAVA7.0 support  Multiple  inheritance ,friend  function, and  operator overloading
-
-and all  C/C++  oops concepts.
-
-d) JAVA7.0 also   supports  CDollar  concepts.
-
-
-e) JAVA7.0 is   used  to create   games which  cannot  be  achieved  in cdollar  and  gdollar.
-
-
-f)  JAVA7.0  also  includes   C#  oops concepts.
-
-
-g) JAVA7.0  also   follows   attractive  syntax.
-
-
-h) Since  it  pocessed  100% oops  concepts  it is  ranked  as   NO:5 
-
-Top  quality  software  according  to  wilmixsolomonresearch lab.
-
-
-i) JAVA7.0 is  used   with   JDollar,CWEB  section, C#, and  with  all  writ  Programming langauges.
-
-j) One  extension ie) filename.java7 with  2 programs  syntax.
-
-k) OakJava7 itself most suitable  for machine learning
-since  it  follows optimized java7.0 code..
-
-Note: Here only  JAVA7(OAKJAVA) Programming language is  focused.
+Note: Here only  OAKJAVA7(JAVA7.0) Programming language is  focused.
 
 <BR> <BR>
 ABOUT  JAVA7.0  modules
