@@ -417,7 +417,7 @@
 <p>&nbsp;</p>
 <p>Java&nbsp; and C#&nbsp; professionals can&nbsp; easily&nbsp; focus.</p>
 <p>&nbsp;</p>
-<p>o)&nbsp; JAVA7.0&nbsp; is&nbsp; focused on MachineLearning,Datascience and&nbsp; Remotewebapplication ,etc.</p>
+<p>o)&nbsp; JAVA7.0&nbsp; is&nbsp; focused on MachineLearning,Datascience and&nbsp; etc.</p>
 <p>&nbsp;</p>
 <p>p)&nbsp; JAVA7.0&nbsp; is&nbsp; used&nbsp; with&nbsp; WNOSQL&nbsp; Database which&nbsp; provides&nbsp; high&nbsp;&nbsp; security...</p>
 <p>&nbsp;</p>
@@ -452,4 +452,4 @@
 <p>OAKJAVA8(JAVA8.0) Tutorial website is: <a href="https://sites.google.com/site/oakjava8programminglanguage/"> For Oakjava8 - Mobile type applications click here </a> </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>[Project&nbsp; Period : 2005&nbsp; to&nbsp; 2016]</p>
+<p>[Project&nbsp; Period : 2005&nbsp; to&nbsp; 2016,2013,2021]</p>
