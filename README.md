@@ -45,15 +45,27 @@
 <p>Intermediate oakjava7 Program SYNTAX-2:</p>
 <p>=======================================</p>
 <p>&nbsp;</p>
-<p>Filename.java</p>
+<p>Filename.oakjava7</p>
 <p>&nbsp;</p>
 <p>=========</p>
 <p>&nbsp;</p>
-<p>&lt;Access modifiers&gt;&nbsp; class &lt;classname&gt;</p>
+<p>&lt;public&gt;&nbsp; class &lt;Oakjava7Prog&gt;</p>
 <p>&nbsp;</p>
+
 <p>{</p>
 <p>&nbsp;</p>
-<p>protected static void&nbsp; main(String args[]) //&nbsp; it&nbsp; means it cannot&nbsp; be&nbsp; run&nbsp;&nbsp; in&nbsp;&nbsp; jdk1.8 compiler</p>
+<p>&nbsp;</p>
+public Oakjava7Prog()
+	{
+		super();
+
+	}
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>public void&nbsp; main() //&nbsp; it&nbsp; means it cannot&nbsp; be&nbsp; run&nbsp;&nbsp; in&nbsp;&nbsp; jdk1.8 compiler</p>
 <p>&nbsp;</p>
 <p>{</p>
 <p>&nbsp;</p>
