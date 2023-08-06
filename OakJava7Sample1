@@ -1,0 +1,36 @@
+ class Oakjava7Prog
+{
+	public Oakjava7Prog()
+	{
+		super();
+
+	}
+
+
+ public void command(String a)
+{
+print("\n\n");
+
+print(a);
+print("\n\n");
+
+}
+
+
+	public void main()
+	{
+
+command("Welcome to OakJava7 Programming Language");
+
+
+}
+
+
+}
+
+
+Output:
+======
+Welcome to OakJava7 Programming Language
+
+
