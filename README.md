@@ -620,33 +620,27 @@ DEMERITS  of JAVA and  C#
 
 a) JAVA  class  file   has  many demerits  so  any thing  you create  a compiler  in  java
 
- 
-
 the source  code  can  be  easily  taken  by JAD.
 
  
 
 b)  C#  (.exe  or  .dll)  source code can  also  be  taken  using  code  reflector.
 
- 
-
 so   C#  also   fails  in  Code   security.
 
- 
-
-That's  why   JAVA7.0  is  focused.
+That's  why   JAVA7.0  came to the picture.
 
  
 
-OAKJava7(JAVA7.0) is a  OAK  java7  for creating  datastructures 
+OAKJava7(JAVA7.0) is also used  for creating  datastructures 
 
-and    compilers.
-
- 
+and    compilers. ie) It is  also used in Research side.
 
  
 
-JAVA7.0  accepts  ".java7"   filename  and  translate  to  .class file.
+ 
+
+JAVA7.0  accepts  ".java7"   filename  and  translate  to  .jclass file.
 
  
 
@@ -666,7 +660,6 @@ JAVA7.0  loads    .dll in   memory  to create  a  Prototype  software.
 
 c) javac7  <filename.java7> and  => will  also   create  .exe  prototype software
 
- 
 
 which  jdk1.8  or any  java compiler  cannot  do.
 
@@ -700,7 +693,7 @@ javac7  <filename.java7>
 
  
 
-How  to run   OAKJAVA?
+How  to run   OAKJAVA7 ?
 
  
 
@@ -716,128 +709,96 @@ javac7  <filename.web>
 
  
 
-javac7 <filename.java7> to  generate  class files and  .exe files.
+javac7 <filename.java7> to  generate  .jclass files and  .exe files.
 
  
-
- 
-
 ADVANTAGES of JAVA7.0(OAKJAVA7)
 
-===============================
-
- 
-
 a) JAVA7.0 behaves like his parent java and  Dotweb3.0
-which java fails completly in code security.
 
- 
+which java fails completly in code security. 
 
 b) JAVA7.0 supports Garbage collection and explicity memory.
 
- 
-
 c) JAVA7.0 support Multiple inheritance ,friend function, and operator overloading
-
- 
 
 and all C/C++ oops concepts.
 
- 
-
 d) JAVA7.0 also supports CDollar concepts.
 
- 
+e) JAVA7.0 also includes C# oops concepts.
 
-e) JAVA7.0 is used to create games which cannot be achieved in cdollar and gdollar.
+f) JAVA7.0 also follows attractive syntax.
 
- 
-
-f) JAVA7.0 also includes C# oops concepts.
-
- 
-
-g) JAVA7.0 also follows attractive syntax.
-
- 
+g)  OakJava7(JAVA7.0)   provides  High  Security when compared to all the  programming  languages.
 
 h) Since it had  100% oops concepts it is ranked as NO:1
 
- 
-
 Top quality software according to wilmixsolomonresearch lab.
-
- 
 
 i) JAVA7.0 is used with JDollar,CWEB section, C#, and with all writ Programming languages.
 
- 
-
 j)  JAVA7.0  also  provide   Shortest  function Statements  ...
-
- 
 
 k)  JAVA7.0  is  easy   to  learn  and  focus  . ie) it  is  Learnable  Programming Language...
 
- 
-
 l)  JAVA7.0   also  had  his   own  shell  prompt  known  as  Java7Shell...
-
- 
 
 you  can  execute and  run  Java7.0 Programs...
 
- 
-
 m)  Java7.0  also   focus  on Code  Security.
-
- 
 
 n)  Java7.0  is  an interactive  Programming Language..
 
- 
+ie)  It  is  used   with  Java  ,  C#  And  other  writ  Programming Languages .. 
 
-ie)  It  is  used   with  Java  ,  C#  And  other  writ  Programming Languages ..
+Java  and C#  professionals can  easily  focus. 
 
- 
-
-Java  and C#  professionals can  easily  focus.
-
- 
-
-o)  JAVA7.0  is  focused on MachineLearning,Datascience and  etc.
-
- 
+o)  JAVA7.0  is  focused on MachineLearning,Datascience  ,etc.
 
 p)  JAVA7.0  is  used  with  WNOSQL  Database which  provides  high   security...
 
- 
-
 q)  JAVA7.0  is used  with  WXML  which  is  very  easy   to  create   Forms ,Reports,etc.It avoids
 
- 
-
-typing  html  everytime. 
-
- 
+typing  html  everytime.  
 
 r) JAVA7.0  also   supports   100%  OOPS  concept. So  it  is called as  a  Pure OOPS  Programming Language.
 
- 
-
 s)  We  can   convert   Java program  to  Oakjava7  Program  by   using  command  ConvertToJava7.
-
- 
 
 t)  OakJava7   Intermediate Program    is  used   to  test  the  OakJava7  Program  , when  user
 
- 
-
-done  mistake  in OakJava7 Programming.
-
- 
+done  mistake  in OakJava7 Programming. 
 
 u) OakJava7    is  designed   in such  a  way   that  Java  Programmers  can   easily   follow it.
+
+v)  OakJava7  is  best  in security  side. eg)   when  we use  Machine learning or web application, it  is best  in security side.
+
+w)  OakJava7   will  work  in  Linux  platform like  ubuntu, etc. So write once  and  run any where.
+
+x)  ScrollServer  can  be used  with  Java Frameworks like  Hibernate,  Mybatics, Java Spring,EJB.
+We can use this for constructing web application. but Oakjava7 cannot be used with
+java Frameworks  like  Hibernate,  Mybatics, Java Spring,EJB. Because Oakjava7 and java/j2ee
+are invented in different programming Languages.
+eg) Oakjava7 is implemented by Wilmix Jemin j in DOTWEB P.L and Jdk1.6. But 
+Java/J2ee  is  implemented by James Gosling in Oak P.L.
+Dotweb P.L is used for compiler construction.
+
+so  we   can  call  OakJava7  as an  interactive  programming Language
+when we used with scrollserver.
+
+y) OakJava7  is  Good  for  the  Interviewer  to  select  a  rightful candidate.
+
+Z)  To Write  OakJava7  program for  any task it will take  only few  minutes  or
+
+if  it is  a miniproject  we  can  finish  the  mini project  with in 1 hour.
+
+Thus  OakJava7  Programming Language is very  easy, it  saves  time and  cost. So it  is a user friendly  Programming Language.
+
+AA)  OakJava7  Programming Language also compile and  run  the  file  like .web
+
+and .java7   at the same time  using   javap7.exe. 
+ 
 
  
 
@@ -871,4 +832,7 @@ OAKJAVA8(JAVA8.0) Tutorial website is: For Oakjava8 - Mobile type applications s
 https://sites.google.com/site/oakjava8programminglanguage
  
 
-[Project  Period : 2005  to  2016,2013,2021,2022]
+[Project  Period : 2005  to  2016,2013,2021,2022,2023]
+
+
+
