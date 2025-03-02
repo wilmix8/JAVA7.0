@@ -5,16 +5,15 @@
 
 OAKJAVA7(JAVA7.0) is   invented by  wilmix jemin  j  at  year  2013 in  java  and modified  in  DOTWEB3.0 P.L in year  2016.And now at year 2025, Further modified  at  CH$ P.L instead of java.
 
- 
-
-Note: The  Meaning  of  OAKJAVA7 or  JAVA7.0   is  OAK +  Jemin  Advanced Virtual Machine
-
-OAK  gives   the  meaning  Beginning.
+ Note: 
+ ====
+ The  Meaning  of  OAKJAVA7 or  JAVA7.0   is  OAK +  Jemin  Advanced Virtual Machine  OAK  gives   the  meaning  Beginning.
 
 History about creation of Oakjava7 Compiler
 ===========================================
 
 How Oakjava7 is invented?
+=========================
 
 OakJava7 is invented by Wilmix Jemin J by Dotweb3.0 Programming language in
 Dotweb3.0 and java.But now the Implementation is changed to CH$ P.L.
@@ -30,6 +29,7 @@ Dotweb3.0 is more advanced than any existing
 programming language in today's IT world.
 
  How to write Dotweb program to create oakjava7 compiler is given below...?
+ ==========================================================================
 
 
 CoreJavac7.web7
@@ -95,13 +95,30 @@ javac7.Javac7.Java7Main(args);
     }
 
 
+Other Evidence about OakJavac7
+=============================
+
+OakJavac7 will work without the installation Java Jdk compiler.
+That we can see the Screen shot.OakJava7 borrows CJava runtime 
+from Gdollar P.L.I will change it later when i release the 
+OakJava7 P.L.Also you can see Corejavac7.exe , and Java7 
+entirely different and run without installation of Java compiler 
+JDK.You can see the ScreenShot for your Reference which given below..
+
+ScreenShot about OakJava7 Evidence
+-----------------------------------
+
+
+![EVIDENCE for  OAKJAVA7](https://github.com/user-attachments/assets/2c26aeba-5f22-4da4-9625-347ac2831b3f)
+
+
 Note:
 ====
 
 Why we don't publish all the OakJava7 code ?
 ===========================================
 
-Beecause if the full implementation of Oakjava7  is known to others,so hackers,etc can easily create the compiler
+Beecause if the full implementation of Oakjava7 is known to others,so hackers,etc can easily create the compiler
 in Dotweb3.0 and they may overtake oakjava7 easily.
 Because using Dotweb3.0 P.L one can create the compiler as fast as could.That's why we don't release  Dotweb3.0
 
