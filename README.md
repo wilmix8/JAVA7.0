@@ -129,7 +129,7 @@ Note:
 Why we don't publish all the OakJava7 code ?
 ===========================================
 
-Beecause if the full implementation of Oakjava7 is known to others,so hackers,etc can easily create the compiler
+Because if the full implementation of Oakjava7 is known to others,so hackers,etc can easily create the compiler
 in Dotweb3.0 and they may overtake oakjava7 easily.
 Because using Dotweb3.0 P.L one can create the compiler as fast as could.That's why we don't release  Dotweb3.0
 
@@ -1100,7 +1100,7 @@ it will generate the  .exe files and  .ojava7 files.
 
  Note: Kindly refer  Oakjava7  Google site...
 
-[Project  Period : 2005  to  2016,2013,2021,2022,2023]
+[Project  Period : 2005  to  2016,2013,2021,2022,2023,2024,2025]
 
 
 Note: ABout  Oakjava7 is  under  construction.
