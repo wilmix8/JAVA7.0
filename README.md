@@ -2,10 +2,8 @@
 
 ===================
 
- 
 
-
-OAKJAVA7(JAVA7.0) is   invented by  wilmix jemin  j  at  year  2013 in  java  and modified  in  DOTWEB3.0 P.L in year  2016.
+OAKJAVA7(JAVA7.0) is   invented by  wilmix jemin  j  at  year  2013 in  java  and modified  in  DOTWEB3.0 P.L in year  2016.And now at year 2025, Further modified  at  CH$ P.L instead of java.
 
  
 
@@ -97,7 +95,15 @@ javac7.Javac7.Java7Main(args);
     }
 
 
+Note:
+====
 
+Why we don't publish all the OakJava7 code ?
+===========================================
+
+Beecause if the full implementation of Oakjava7  is known to others,so hackers,etc can easily create the compiler
+in Dotweb3.0 and they may overtake oakjava7 easily.
+Because using Dotweb3.0 P.L one can create the compiler as fast as could.That's why we don't release  Dotweb3.0
 
 The Major common syntax  for  oakjava7 is given below..
 
