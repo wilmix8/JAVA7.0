@@ -1,9 +1,17 @@
-# JAVA7.0(OAKJAVA7)
+![OAKJAVA7LOGO](https://github.com/user-attachments/assets/c7eb4be1-5db1-4474-8d80-4d134400ef9e)
 
+
+
+<img width="640" alt="scenaries-Oakjava7" src="https://github.com/user-attachments/assets/a70b3175-0e65-40a3-970c-9dcb967174f3" />
+
+
+
+
+# JAVA7.0(OAKJAVA7)
 ===================
 
+OAKJAVA7(JAVA7.0) is   invented by  wilmix jemin  j  at  year  2013 in  java  and modified  in  DOTWEB3.0 P.L in year  2016.And now at year 2025, it's Further modified  at  CH$ P.L instead of java.
 
-OAKJAVA7(JAVA7.0) is   invented by  wilmix jemin  j  at  year  2013 in  java  and modified  in  DOTWEB3.0 P.L in year  2016.And now at year 2025, Further modified  at  CH$ P.L instead of java.
 
  Note: 
  ====
@@ -95,8 +103,10 @@ javac7.Javac7.Java7Main(args);
     }
 
 
+
 Other Evidence about OakJavac7
 =============================
+
 
 OakJavac7 will work without the installation Java Jdk compiler.
 That we can see the Screen shot.OakJava7 borrows CJava runtime 
@@ -104,6 +114,7 @@ from Gdollar P.L.I will change it later when i release the
 OakJava7 P.L.Also you can see Corejavac7.exe , and Java7 
 entirely different and run without installation of Java compiler 
 JDK.You can see the ScreenShot for your Reference which given below..
+
 
 ScreenShot about OakJava7 Evidence
 -----------------------------------
@@ -123,7 +134,6 @@ in Dotweb3.0 and they may overtake oakjava7 easily.
 Because using Dotweb3.0 P.L one can create the compiler as fast as could.That's why we don't release  Dotweb3.0
 
 The Major common syntax  for  oakjava7 is given below..
-
 
 
 Major Syntax for  oakjava7 program SYNTAX-1:
