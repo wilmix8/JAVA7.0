@@ -24,7 +24,7 @@ How Oakjava7 is invented?
 =========================
 
 OakJava7 is invented by Wilmix Jemin J by Dotweb3.0 Programming language in
-Dotweb3.0 and java.But now the Implementation is changed to CH$ P.L.
+Dotweb3.0 and java.But now the Java Implementation is changed to CH$ P.L.
 Because there is no code security in Java/J2ee when i create the Oakjava7 compiler.
 So the Oakjava7 implementation is changed to CH$ P.L.
 We know the fact  Dotweb3.0 is invented in CH$ and
