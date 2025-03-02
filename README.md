@@ -1071,10 +1071,11 @@ public static void Method2()
 </OJ7ML>
 
 
+====================================================
 
-
-Explanation 
+EXPLANATION
 ============
+
 
 Here when you code the Machine Learning program  using this syntax and compile it using javac7 <filename.oj7ua> , 
 
@@ -1098,9 +1099,13 @@ So when you include .exe value as a Type means when you compile the oakjava7
 
 it will generate the  .exe files and  .ojava7 files.
 
- Note: Kindly refer  Oakjava7  Google site...
+ Note:
+ ====
+ Kindly refer  Oakjava7  Google site...
 
 [Project  Period : 2005  to  2016,2013,2021,2022,2023,2024,2025]
 
 
-Note: ABout  Oakjava7 is  under  construction.
+Note:
+====
+ABout  Oakjava7 is  under  construction.
