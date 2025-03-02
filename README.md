@@ -13,24 +13,102 @@ Note: The  Meaning  of  OAKJAVA7 or  JAVA7.0   is  OAK +  Jemin  Advanced Virtua
 
 OAK  gives   the  meaning  Beginning.
 
- 
+History about creation of Oakjava7 Compiler
+===========================================
+
+How Oakjava7 is invented?
+
+OakJava7 is invented by Wilmix Jemin J by Dotweb3.0 Programming language in
+Dotweb3.0 and java.But now the Implementation is changed to CH$ P.L.
+Because there is no code security in Java/J2ee when i create the Oakjava7 compiler.
+So the Oakjava7 implementation is changed to CH$ P.L.
+We know the fact  Dotweb3.0 is invented in CH$ and
+CH$ is invented in GDollar P.L.
+
+Evidence for creation of Oakjava7 compiler
+==========================================
+
+Dotweb3.0 is more advanced than any existing
+programming language in today's IT world.
+
+ How to write Dotweb program to create oakjava7 compiler is given below...?
+
+
+CoreJavac7.web7
+==============
+
+<DOTWEB3>
+<PACK> Javac7
+
+{
+<CLASS> OakJava7c
+  {
+          public void main()
+
+        {
+ <TRY>
+
+      {
+
+//wilmix code
+
+//Console Design
+
+//If no input it will list how to use Oakjava7 compiler.
+
+ if (args.Length <= 0)
+      {
+
+        <PRINTLN>("============================================================================");
+         <PRINTLN>("OakJavac7.0(OAKJAVA7) @JeminInformationTechnology (C)  2024  All Rights  Reserved ");
+         <PRINTLN>("============================================================================");
+         <PRINTLN>("To  compile  java7.0 files use  => corejavac7  <filename.java7> ");
+           <PRINTLN>("To  compile  oakjava7.0 files use  => corejavac7  <filename.java7> ");
+         
+           <PRINTLN>("To  compile and   create  a  prototype software use  => corejavac7 <filename.web>");
+           <PRINTLN>("To  compile and   create a  DataScience and MachineLearning application use  \n" +
+                "=> corejavac7 <filename.oj7ua>");
+            
+           <PRINTLN>("============================================================================");
+      }
+      else
+//wilmix code
+
+{
+// Calling Oakjava7 compiler libraries.
+javac7.Javac7.Java7Main(args);
+
+}
+
+}
+      }
+
+      <CATCH> (Exception e)
+
+      {
+        // print the  errors
+
+        <PRINTLN>("OakJavac7  Error.... "+e);
+
+      }  
+    }
+        }
+
+    }
+
+
+
 
 The Major common syntax  for  oakjava7 is given below..
 
- 
 
- 
 
 Major Syntax for  oakjava7 program SYNTAX-1:
-
 ============================================
 
  
 
 filename.web
-
- 
-
 ===========
 
  
